@@ -1,7 +1,6 @@
 # weather-world
 
 > 🌐 **Live Project Website:** [weather-world-io.netlify.app/](https://weather-world-io.netlify.app/)
-> 🌐 **Live Project Website:** [bounchun.github.io/HomeGuard](https://bounchun.github.io/HomeGuard/)
 
 ## Whether Weather 🌦️
 <p align="center"> 
