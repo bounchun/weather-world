@@ -1,6 +1,6 @@
-# weather-world
+# Weather-World
 
-> 🌐 **Live Project Website:** [weather-world-io.netlify.app/](https://weather-world-io.netlify.app/)
+> 🌐 **Live Project Website:** [whether-weather-world.netlify.app/](https://whether-weather-world.netlify.app/)
 
 ## Whether Weather 🌦️
 <p align="center"> 
