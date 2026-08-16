@@ -1,5 +1,7 @@
 # weather-world
-# Live site project : https://weather-world-io.netlify.app/
+
+https://weather-world-io.netlify.app/
+
 ## Whether Weather 🌦️
 <p align="center"> 
    <img src="./assets/logo.png" alt="Whether Weather Logo" height="140"> 
