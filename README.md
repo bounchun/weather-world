@@ -158,17 +158,9 @@ _css/
 
 **GitHub**: https://docs.github.com/en
 
-### 🤝 Contributing Guidelines
-
-This project was created for an academic assignment. Contributions are not expected, but suggestions and feedback are welcome.
-
-### 📄 License
-
-This project was completed for educational purposes as part of a web development course.
-
 ### 📬 Contact Information
 
-For questions related to this project, please contact the author [Boun Chun](https://github.com/bounchun) or the course instructor [John Reillis](https://github.com/johnrellis).
+For questions related to this project, please contact the author [Boun Chun](https://github.com/bounchun) 
 
 
 
